@@ -1,1 +1,1 @@
-> Our meetups' banners history.
+> Our meetup's banners' history.
