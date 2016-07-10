@@ -1,0 +1,54 @@
+Dimensions: 
+A3 – 42cm x 29.7cm (Resolution 300px/inch, CMYK)
+
+--------------------------------------------------------------
+
+Folders:
+Header
+	meetup photo
+	YOU'RE INVETED
+	MEET JAVA NINGAS...
+
+Content
+	main logo +agenda
+		utrecht jug logo
+		linkedin
+		twitter
+		linkedin icon
+		twitter icon
+	When
+		clock img
+		When
+	Where
+		location img
+		Where
+	1st presentation
+		1st presentation
+		1st twitter
+		1st img twitter
+	2nd presentation
+		2nd presentation
+		2nd twitter
+		2nd img twitter
+	Sponsors
+		bol.com
+			bol.com img
+			first
+			second		
+		less
+			less img
+			first
+			second
+		circus
+			the software circus img
+			first
+			second
+Footer
+	RSPV...
+	footer red
+Rounded Rectangle bg
+bg
+
+------------------------------------------------------
+
+-EB
